@@ -6,6 +6,8 @@ Targeted toward Digilent Basys3. Make sure to install the [board files](https://
 
 Tested on Windows 11.
 
+Doc Statement: Worked from Alex Sick's work
+
 ---
 
 ## Build the project
